@@ -2,14 +2,14 @@
 body {
   font-family: "Open Sans", sans-serif;
   margin: 0;
-  background: #ecf0f1;
+  background: #16a085;
 }
 
 .container {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-  color: #2c3e50;
+  color: #bdc3c7;
   text-align: center;
 }
 
@@ -20,7 +20,6 @@ body {
 }
 
 .song-text {
-  color: #34495e;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
 }
